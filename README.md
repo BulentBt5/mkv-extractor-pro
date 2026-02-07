@@ -1,43 +1,71 @@
-# 🎬 MKV Extractor Pro
+<h1 align="center">MKV Extractor Pro</h1>
 
-> **"Excellence is hidden in details."**
+**MKV Extractor Pro** is a modern, high-performance desktop application designed to extract video, audio, subtitle, and attachment tracks from MKV and MP4 files **without re-encoding (lossless)**. Built with **Tauri**, **Rust**, and **React**.
 
-**MKV Extractor Pro** is a modern, high-performance desktop application designed to extract video, audio, subtitle, and attachment tracks from MKV and MP4 files **without re-encoding (lossless)**. Built with **Tauri**, **Rust**, and **React**, it offers a native experience with a sleek user interface.
+---
+
+## Key Features
+
+* **High Performance**
+  Powered by a Rust backend and Tauri, ensuring minimal resource usage and maximum speed.
+
+* **Drag & Drop Interface**
+  Simply drag your video files into the app to start processing immediately.
+
+* **Batch Processing**
+  Queue multiple files and extract tracks from all of them in a single operation.
+
+* **Smart Theme System**
+  Automatically adapts to your Windows theme (Dark/Light) or can be controlled manually via preferences.
+
+* **Multi-Language Support**
+  Fully localized interface available in English, Turkish, German, French, Russian, and more.
+
+* **Smart Filtering**
+  Easily filter tracks by type (Video, Audio, Subtitles) or specific language through the context menu.
+
+* **Conflict Management**
+  Intelligent prompts to handle file overwrites, renaming, or skipping without interrupting the queue.
+
+* **Auto-Update**
+  Built-in updater checks for new versions and installs them automatically.
+
+---
+
+## Support the Development
+
+**MKV Extractor Pro is Freeware.**
+
+It is developed with a passion for creating useful tools. If this app saved your time, please consider supporting the development to keep it free and updated.
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-Support_Development-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/bulentbengi)
+
+---
+
+## Download
 
 ![Version](https://img.shields.io/badge/version-v1.0.0-blue?style=flat-square) ![License](https://img.shields.io/badge/license-Freeware-orange?style=flat-square) ![Platform](https://img.shields.io/badge/platform-Windows_x64-0078D6?style=flat-square) ![Price](https://img.shields.io/badge/price-FREE-ff69b4?style=flat-square)
 
-## ✨ Key Features
+<br>
 
-* **🚀 Blazing Fast:** Powered by a Rust backend and Tauri, ensuring minimal resource usage and maximum speed.
-* **Drag & Drop:** Simply drag your video files into the app to start processing.
-* **📦 Batch Processing:** Queue multiple files and extract tracks from all of them in one go.
-* **🎨 Smart Theme System:**
-    * **System Sync:** Automatically adapts to your Windows theme (Dark/Light).
-    * **Manual Control:** Force Dark or Light mode via Preferences.
-* **🌍 Multi-Language Support:** Fully localized in English, Turkish, German, French, Russian, and more.
-* **🔍 Smart Filtering:** Easily filter tracks by type (Video, Audio, Subs) or language via the context menu.
-* **🛡️ Conflict Management:** Smart prompts to handle file overwrites, renaming, or skipping.
-* **🔄 Auto-Update:** Built-in updater checks for new versions and installs them automatically.
+[![Download](https://img.shields.io/badge/Download_for_Windows-v1.0.0-0066CC?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/BulentBt5/mkv-extractor-pro/releases/latest/download/MKV-Extractor-Pro_x64-setup.exe)
 
-## 📥 Installation
-
-1.  Go to the [Releases](https://github.com/BulentBt5/mkv-extractor-pro/releases/latest) page.
-2.  Download the latest installer: `MKV-Extractor-Pro_x64-setup.exe`.
-3.  Run the installer. The app will launch automatically.
-
-## ❤️ Support the Developer
-
-**MKV Extractor Pro is 100% free software (Freeware).**
-
-It is developed in my free time with a passion for creating useful tools. If this app saved your time or you enjoy using it, please consider supporting the development. Your donations help me keep the software **free, updated, and ad-free!**
-
-<a href="https://buymeacoffee.com/bulentbengi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 216px !important;" ></a>
-
-Or directly via: [https://buymeacoffee.com/bulentbengi](https://buymeacoffee.com/bulentbengi)
-
-## 📝 License
-
-This software is **Freeware**. You can download and use it for free for personal or commercial purposes. However, this is **proprietary software**, and the source code is not available for modification or redistribution.
+**Installation Steps:**
+1.  Click the **Download for Windows** button above.
+2.  Run the installer: `MKV-Extractor-Pro_x64-setup.exe`.
+3.  The application will launch automatically.
 
 ---
+
+## License
+
+**Freeware.**
+You can download and use this software for free for personal or commercial purposes.
+*Source code is not available for modification or redistribution.*
+
+<br>
+<div align="center">
+
 **BengiSoftware** © 2026 - All Rights Reserved.
+
+</div>
