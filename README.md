@@ -48,12 +48,12 @@ It is developed with a passion for creating useful tools. If this app saved your
 
 <br>
 
-[![Download](https://img.shields.io/badge/Download_for_Windows-v1.0.0-0066CC?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/BulentBt5/mkv-extractor-pro/releases/latest/download/MKV-Extractor-Pro_x64-setup.exe)
+[![Download](https://img.shields.io/badge/Download_from_Releases-Latest_Version-0066CC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BulentBt5/mkv-extractor-pro/releases)
 
 **Installation Steps:**
-1.  Click the **Download for Windows** button above.
-2.  Run the installer: `MKV-Extractor-Pro_x64-setup.exe`.
-3.  The application will launch automatically.
+1.  Click the **Download from Releases** button above.
+2.  Select the latest version (e.g., `v1.0.0`) and download `MKV-Extractor-Pro_x64-setup.exe`.
+3.  Run the installer and the app will launch automatically.
 
 ---
 
